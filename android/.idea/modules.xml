@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/native_rent_fyp2.iml" filepath="$PROJECT_DIR$/native_rent_fyp2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/native_rent_fyp2.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/native_rent_fyp2.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1322285119/native_rent_fyp2.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1322285119/native_rent_fyp2.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-628235522/native_rent_fyp2.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-628235522/native_rent_fyp2.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1236280217/native_rent_fyp2.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1236280217/native_rent_fyp2.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/274739724/native_rent_fyp2.react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/274739724/native_rent_fyp2.react-native-image-crop-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1810668972/native_rent_fyp2.react-native-picker_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1810668972/native_rent_fyp2.react-native-picker_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-116334877/native_rent_fyp2.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-116334877/native_rent_fyp2.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-989283902/native_rent_fyp2.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-989283902/native_rent_fyp2.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1819605926/native_rent_fyp2.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1819605926/native_rent_fyp2.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1731378467/native_rent_fyp2.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1731378467/native_rent_fyp2.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
