@@ -72,7 +72,7 @@ export default class Login extends React.Component {
           'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNTk0NmM4YmRkYjQ2OGQxMGI3MzUzYjYxZDNjNGExMmI0ZmQ5YjM4YjIxZmUzMTMzNzAzMWJkYjk1ZTRhZGQ3OGQyYzZiZDQ4MzFlMGM1NzMiLCJpYXQiOjE1NzY0MzA4MTEsIm5iZiI6MTU3NjQzMDgxMSwiZXhwIjoxNjA4MDUzMjExLCJzdWIiOiIyIiwic2NvcGVzIjpbXX0.VLFMVl0SOADe4PmZvaar3pu7ZIRw1kteehG7aIgqaPtn9Ffbu-ePC4mS1u5zpSo2_432Tx4D4WFQzGGOja3vjxMNIRZJbSpnuaSdMvkOT0fFdm4eJcyJev2BvIWwGt8e1CAse8noTgf325Y7OijApMLLhmymt3MAQfbrCXFY5MrqRmP1QflHedZ487l-Al2_NZKxoin4wNjDixQ98sCfLxR8RzGofXmJJQl5lhBVnF1qaZsb48TUBztBxljD7_ggr4p6nnD2KkGPWoEnjBJacAZMuW7eaj6MDFrQBAq_3QKh43AvbIGodyvMhQgZyrwdltfeeTaFiBAZlBzeHvWmzqsxarSYRhgTe1oDBfecRzlHejAmGrMxfZ7O6EklYaVI4vwW1x8eYMv4Oxh-7qSiCw_10CkWJsjgLAE2YYXlGA6RRnSZ9lVSXOajPFmzazLMdBTcYFymmNynYP3FTSbUNOqq_3vqt1x8WPD91H36Kjc2VH8l42lB8zeXeytIUMQ-9-22tD4S5x5UBL9qw7I1QXrlks4Q7wbJ2yHrCpbGnK8m3xImg6BsSaKKCBMyIXbkUTn2tKNMBjwQGhhqDQrzzDGzyyVvrtUMLkc2KEUl6RkdQBRgzbysBOFfHVX8s83VGn4va-hygwnvVVYb9bcDTApkyPjkE9eHaKE2CnShdoc'
         }
 
-        axios.post('http://brandsmen.com.pk/rentfyp_api/public/api/login', {
+        axios.post('http://alkarimfabrics.com.pk/rent_api/public/api/login', {
           email: this.state.text_input_email,
           password: this.state.text_input_password
         }).then(function (response) {

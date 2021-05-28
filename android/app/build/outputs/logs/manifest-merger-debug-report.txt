@@ -7,17 +7,20 @@ INJECTED from F:\Applications\Rent_fyp_app-master\android\app\src\main\AndroidMa
 MERGED from F:\Applications\Rent_fyp_app-master\android\app\src\main\AndroidManifest.xml:1:1-26:12
 MERGED from [:react-native-community_async-storage] F:\Applications\Rent_fyp_app-master\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-community_masked-view] F:\Applications\Rent_fyp_app-master\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-picker_picker] F:\Applications\Rent_fyp_app-master\node_modules\@react-native-picker\picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-gesture-handler] F:\Applications\Rent_fyp_app-master\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-crop-picker] F:\Applications\Rent_fyp_app-master\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-34:12
 MERGED from [:react-native-reanimated] F:\Applications\Rent_fyp_app-master\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-safe-area-context] F:\Applications\Rent_fyp_app-master\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-screens] F:\Applications\Rent_fyp_app-master\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-vector-icons] F:\Applications\Rent_fyp_app-master\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\1c3a07b2c4252d787a4615645c044843\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\2da1c20aa38e05935c8cb7803c392437\AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\4ad8ec956b75984a95141080da39c3e8\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\078d45202ce0fc9b26df0cfae0c4515b\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\9e1bc199d1a15558c51b345b68cf8af2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\b0b390a865b01744af1f842fe7dc38d0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\142c98dc3f4c20ebf4ac759d2c363154\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\a0d15351fff573f043a4fe5288fb88d1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\831297acfd1af3d1282b3607ccc3f48b\AndroidManifest.xml:17:1-24:12
 MERGED from [org.webkit:android-jsc:r245459] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\8b98aa58e54001479d38b41059246c1d\AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\41d1f7246d544a6331111fffe76febda\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\5edc7c455e860fce39bf5c7c4be5fb9a\AndroidManifest.xml:2:1-9:12
@@ -27,12 +30,10 @@ MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\nafil.ahmed\.grad
 MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\58492b6e50e9179e9ec09f79a913cf8d\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\d9a7ba05d3cf6b68659041edac48f76f\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\f59d990849c95d82868c4ad6e49ce4a1\AndroidManifest.xml:2:1-13:12
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\4c49ea08c34f3a766634ae1543496028\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\480808a63bbca74257499ddcd5f13bf3\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\ab1c48670db38526f6130bc2b0df8df5\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.transition:transition:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\98cbeb62ea1be4f18895376cf57eed84\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\3d84bfb9911d5cb83c6723fba39d27d3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0-rc01] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\4418c79b14094b3039ccb4bf794d9e06\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\bf4cdb193a0cdc6018a90dc3d08a8e77\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\4c49ea08c34f3a766634ae1543496028\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\c2eb6bde490a525bf339f205a49c3865\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\dca1ce6c2e2b0262a9532d2a9ca1317e\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\54954efb2504224932231daeb727b642\AndroidManifest.xml:17:1-22:12
@@ -40,9 +41,12 @@ MERGED from [androidx.customview:customview:1.0.0] C:\Users\nafil.ahmed\.gradle\
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\8e1dfd39e2474940732b38c938de6821\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\198172af1787ce96def68498cac3008a\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.activity:activity:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\2189bcbfb0c4e7985d96bd145b07c5f0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\480808a63bbca74257499ddcd5f13bf3\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\fbbf287bc11c4cb015ec391e0252af6b\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\af4b55bbec5d5cc49b34c668d9679f38\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\74e88d8083812e5413df376f1f425c62\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\ab1c48670db38526f6130bc2b0df8df5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\71c2c46b1a13697e10a02d48feddb6aa\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\22940e2f70ab96d297b88d63e6b6f6f8\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\9c23129448c484e085b6afe623e02804\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\108c770d4617068b261b61713c4dc996\AndroidManifest.xml:17:1-27:12
@@ -55,7 +59,7 @@ MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\nafil.ahmed\.gradle\
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\2a68a8307551c514c8ecfd1cc58e96d0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\86e1149fc76aea1983b8fb976f2fab79\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\6a6671bd70afd4d8191c6e6adb662540\AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\ab9a182949cbda9b5e20fd2b2220c9f6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\5480890596076c4a202b625feffcdcc9\AndroidManifest.xml:2:1-9:12
 INJECTED from F:\Applications\Rent_fyp_app-master\android\app\src\debug\AndroidManifest.xml:2:1-8:12
 INJECTED from F:\Applications\Rent_fyp_app-master\android\app\src\debug\AndroidManifest.xml:2:1-8:12
 INJECTED from F:\Applications\Rent_fyp_app-master\android\app\src\debug\AndroidManifest.xml:2:1-8:12
@@ -84,8 +88,10 @@ application
 ADDED from F:\Applications\Rent_fyp_app-master\android\app\src\main\AndroidManifest.xml:6:5-24:19
 MERGED from F:\Applications\Rent_fyp_app-master\android\app\src\main\AndroidManifest.xml:6:5-24:19
 MERGED from F:\Applications\Rent_fyp_app-master\android\app\src\main\AndroidManifest.xml:6:5-24:19
-MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\1c3a07b2c4252d787a4615645c044843\AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\1c3a07b2c4252d787a4615645c044843\AndroidManifest.xml:11:5-20
+MERGED from [:react-native-image-crop-picker] F:\Applications\Rent_fyp_app-master\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-32:19
+MERGED from [:react-native-image-crop-picker] F:\Applications\Rent_fyp_app-master\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-32:19
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\2da1c20aa38e05935c8cb7803c392437\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\2da1c20aa38e05935c8cb7803c392437\AndroidManifest.xml:11:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\078d45202ce0fc9b26df0cfae0c4515b\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\078d45202ce0fc9b26df0cfae0c4515b\AndroidManifest.xml:22:5-20
 MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\f59d990849c95d82868c4ad6e49ce4a1\AndroidManifest.xml:11:5-20
@@ -152,8 +158,12 @@ MERGED from [:react-native-community_async-storage] F:\Applications\Rent_fyp_app
 MERGED from [:react-native-community_async-storage] F:\Applications\Rent_fyp_app-master\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_masked-view] F:\Applications\Rent_fyp_app-master\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_masked-view] F:\Applications\Rent_fyp_app-master\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-picker_picker] F:\Applications\Rent_fyp_app-master\node_modules\@react-native-picker\picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-picker_picker] F:\Applications\Rent_fyp_app-master\node_modules\@react-native-picker\picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-gesture-handler] F:\Applications\Rent_fyp_app-master\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-gesture-handler] F:\Applications\Rent_fyp_app-master\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-crop-picker] F:\Applications\Rent_fyp_app-master\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] F:\Applications\Rent_fyp_app-master\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-8:41
 MERGED from [:react-native-reanimated] F:\Applications\Rent_fyp_app-master\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-reanimated] F:\Applications\Rent_fyp_app-master\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-safe-area-context] F:\Applications\Rent_fyp_app-master\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
@@ -162,8 +172,10 @@ MERGED from [:react-native-screens] F:\Applications\Rent_fyp_app-master\node_mod
 MERGED from [:react-native-screens] F:\Applications\Rent_fyp_app-master\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] F:\Applications\Rent_fyp_app-master\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] F:\Applications\Rent_fyp_app-master\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\1c3a07b2c4252d787a4615645c044843\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\1c3a07b2c4252d787a4615645c044843\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\2da1c20aa38e05935c8cb7803c392437\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\2da1c20aa38e05935c8cb7803c392437\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\4ad8ec956b75984a95141080da39c3e8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\4ad8ec956b75984a95141080da39c3e8\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\078d45202ce0fc9b26df0cfae0c4515b\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\078d45202ce0fc9b26df0cfae0c4515b\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\9e1bc199d1a15558c51b345b68cf8af2\AndroidManifest.xml:20:5-22:41
@@ -172,8 +184,8 @@ MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\nafil.ahmed\.gra
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\b0b390a865b01744af1f842fe7dc38d0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\142c98dc3f4c20ebf4ac759d2c363154\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\142c98dc3f4c20ebf4ac759d2c363154\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\a0d15351fff573f043a4fe5288fb88d1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\a0d15351fff573f043a4fe5288fb88d1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\831297acfd1af3d1282b3607ccc3f48b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\831297acfd1af3d1282b3607ccc3f48b\AndroidManifest.xml:20:5-22:41
 MERGED from [org.webkit:android-jsc:r245459] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\8b98aa58e54001479d38b41059246c1d\AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r245459] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\8b98aa58e54001479d38b41059246c1d\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\41d1f7246d544a6331111fffe76febda\AndroidManifest.xml:5:5-7:41
@@ -192,18 +204,14 @@ MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\nafil.ahmed\
 MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\d9a7ba05d3cf6b68659041edac48f76f\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\f59d990849c95d82868c4ad6e49ce4a1\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\f59d990849c95d82868c4ad6e49ce4a1\AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\4c49ea08c34f3a766634ae1543496028\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\4c49ea08c34f3a766634ae1543496028\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\480808a63bbca74257499ddcd5f13bf3\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\480808a63bbca74257499ddcd5f13bf3\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\ab1c48670db38526f6130bc2b0df8df5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\ab1c48670db38526f6130bc2b0df8df5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\98cbeb62ea1be4f18895376cf57eed84\AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\98cbeb62ea1be4f18895376cf57eed84\AndroidManifest.xml:20:5-44
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\3d84bfb9911d5cb83c6723fba39d27d3\AndroidManifest.xml:20:5-44
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\3d84bfb9911d5cb83c6723fba39d27d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0-rc01] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\4418c79b14094b3039ccb4bf794d9e06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0-rc01] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\4418c79b14094b3039ccb4bf794d9e06\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\bf4cdb193a0cdc6018a90dc3d08a8e77\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\bf4cdb193a0cdc6018a90dc3d08a8e77\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\4c49ea08c34f3a766634ae1543496028\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\4c49ea08c34f3a766634ae1543496028\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\c2eb6bde490a525bf339f205a49c3865\AndroidManifest.xml:20:5-44
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\c2eb6bde490a525bf339f205a49c3865\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\dca1ce6c2e2b0262a9532d2a9ca1317e\AndroidManifest.xml:20:5-44
@@ -218,12 +226,18 @@ MERGED from [androidx.loader:loader:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\t
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\198172af1787ce96def68498cac3008a\AndroidManifest.xml:20:5-44
 MERGED from [androidx.activity:activity:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\2189bcbfb0c4e7985d96bd145b07c5f0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\2189bcbfb0c4e7985d96bd145b07c5f0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\480808a63bbca74257499ddcd5f13bf3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\480808a63bbca74257499ddcd5f13bf3\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\fbbf287bc11c4cb015ec391e0252af6b\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\fbbf287bc11c4cb015ec391e0252af6b\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\af4b55bbec5d5cc49b34c668d9679f38\AndroidManifest.xml:20:5-44
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\af4b55bbec5d5cc49b34c668d9679f38\AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\74e88d8083812e5413df376f1f425c62\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.1.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\74e88d8083812e5413df376f1f425c62\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\ab1c48670db38526f6130bc2b0df8df5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\ab1c48670db38526f6130bc2b0df8df5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\71c2c46b1a13697e10a02d48feddb6aa\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\71c2c46b1a13697e10a02d48feddb6aa\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\22940e2f70ab96d297b88d63e6b6f6f8\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\22940e2f70ab96d297b88d63e6b6f6f8\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\9c23129448c484e085b6afe623e02804\AndroidManifest.xml:20:5-44
@@ -248,8 +262,8 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\nafil.ah
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\86e1149fc76aea1983b8fb976f2fab79\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\6a6671bd70afd4d8191c6e6adb662540\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\6a6671bd70afd4d8191c6e6adb662540\AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\ab9a182949cbda9b5e20fd2b2220c9f6\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\ab9a182949cbda9b5e20fd2b2220c9f6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\5480890596076c4a202b625feffcdcc9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\nafil.ahmed\.gradle\caches\transforms-2\files-2.1\5480890596076c4a202b625feffcdcc9\AndroidManifest.xml:5:5-7:41
 INJECTED from F:\Applications\Rent_fyp_app-master\android\app\src\debug\AndroidManifest.xml
 INJECTED from F:\Applications\Rent_fyp_app-master\android\app\src\debug\AndroidManifest.xml
 	android:targetSdkVersion
@@ -262,3 +276,37 @@ uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from F:\Applications\Rent_fyp_app-master\android\app\src\debug\AndroidManifest.xml:5:5-77
 	android:name
 		ADDED from F:\Applications\Rent_fyp_app-master\android\app\src\debug\AndroidManifest.xml:5:22-75
+queries
+ADDED from [:react-native-image-crop-picker] F:\Applications\Rent_fyp_app-master\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-14:15
+intent
+ADDED from [:react-native-image-crop-picker] F:\Applications\Rent_fyp_app-master\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-13:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] F:\Applications\Rent_fyp_app-master\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-73
+	android:name
+		ADDED from [:react-native-image-crop-picker] F:\Applications\Rent_fyp_app-master\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:21-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:react-native-image-crop-picker] F:\Applications\Rent_fyp_app-master\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from [:react-native-image-crop-picker] F:\Applications\Rent_fyp_app-master\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:22-78
+provider#androidx.core.content.FileProvider
+ADDED from [:react-native-image-crop-picker] F:\Applications\Rent_fyp_app-master\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:9-27:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] F:\Applications\Rent_fyp_app-master\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] F:\Applications\Rent_fyp_app-master\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] F:\Applications\Rent_fyp_app-master\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] F:\Applications\Rent_fyp_app-master\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] F:\Applications\Rent_fyp_app-master\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:13-26:58
+	android:resource
+		ADDED from [:react-native-image-crop-picker] F:\Applications\Rent_fyp_app-master\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:17-55
+	android:name
+		ADDED from [:react-native-image-crop-picker] F:\Applications\Rent_fyp_app-master\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] F:\Applications\Rent_fyp_app-master\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:9-31:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] F:\Applications\Rent_fyp_app-master\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] F:\Applications\Rent_fyp_app-master\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:13-60

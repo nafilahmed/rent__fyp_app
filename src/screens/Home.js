@@ -25,7 +25,7 @@ export default class Home extends React.Component {
   featching_promo_deals = async () => {
 
     try {
-      axios.get('http://brandsmen.com.pk/rentfyp_api/public/api/all_product',{ 
+      axios.get('http://alkarimfabrics.com.pk/rent_api/public/api/all_product',{ 
         // user_id:this.state.brand_user_id , offset : this.state.offset 
       }).then((brand_response) => {
 
@@ -49,7 +49,7 @@ export default class Home extends React.Component {
   renderRecipes = ({ item }) => (
     <TouchableHighlight underlayColor='rgba(73,182,77,1,0.9)' >
       <View style={styles.container}>
-        <Image style={styles.photo} source={{ uri: 'http://brandsmen.com.pk/rentfyp_api/public'+item.feature_image }} />
+        <Image style={styles.photo} source={{ uri: 'http://alkarimfabrics.com.pk/rent_api/public'+item.feature_image }} />
         <Text style={styles.title}>{item.name}</Text>
         <Text style={styles.category}>Rs {item.price} / {item.unit}</Text>
       </View>

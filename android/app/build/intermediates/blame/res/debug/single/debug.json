@@ -21,7 +21,7 @@
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_redbox_view.xml.flat",
-        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\1c3a07b2c4252d787a4615645c044843\\res\\layout\\redbox_view.xml"
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\2da1c20aa38e05935c8cb7803c392437\\res\\layout\\redbox_view.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -88,6 +88,14 @@
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ucrop_shadow_upside.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable\\ucrop_shadow_upside.xml"
+    },
+    {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ucrop_wrapper_controls_shape.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable\\ucrop_wrapper_controls_shape.xml"
+    },
+    {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
@@ -98,6 +106,14 @@
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ucrop_ic_angle.png.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable-hdpi-v4\\ucrop_ic_angle.png"
+    },
+    {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_ucrop_loader_circle_path.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\anim\\ucrop_loader_circle_path.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_chip_state_list_anim.xml.flat",
@@ -157,7 +173,7 @@
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_redbox_top_border_background.xml.flat",
-        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\1c3a07b2c4252d787a4615645c044843\\res\\drawable\\redbox_top_border_background.xml"
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\2da1c20aa38e05935c8cb7803c392437\\res\\drawable\\redbox_top_border_background.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -182,6 +198,10 @@
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_simple_spinner_item.xml.flat",
+        "source": "F:\\Applications\\Rent_fyp_app-master\\node_modules\\@react-native-picker\\picker\\android\\build\\intermediates\\packaged_res\\debug\\layout\\simple_spinner_item.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_password_eye.xml.flat",
@@ -214,6 +234,10 @@
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility.png.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\078d45202ce0fc9b26df0cfae0c4515b\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_simple_spinner_dropdown_item.xml.flat",
+        "source": "F:\\Applications\\Rent_fyp_app-master\\node_modules\\@react-native-picker\\picker\\android\\build\\intermediates\\packaged_res\\debug\\layout\\simple_spinner_dropdown_item.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -386,6 +410,10 @@
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_text_material.xml.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ucrop_ic_done.png.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable-mdpi-v4\\ucrop_ic_done.png"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -608,6 +636,10 @@
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ucrop_ic_angle.png.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable-xhdpi-v4\\ucrop_ic_angle.png"
+    },
+    {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\74e88d8083812e5413df376f1f425c62\\res\\drawable\\notification_bg.xml"
     },
@@ -680,12 +712,20 @@
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ucrop_scale.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable\\ucrop_scale.xml"
+    },
+    {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ucrop_ic_done.png.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable-hdpi-v4\\ucrop_ic_done.png"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_design_ic_visibility_off.xml.flat",
@@ -716,6 +756,10 @@
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ucrop_view.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\layout\\ucrop_view.xml"
+    },
+    {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_tooltip_enter.xml.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\anim\\abc_tooltip_enter.xml"
     },
@@ -728,12 +772,16 @@
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
-        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ucrop_aspect_ratio.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\layout\\ucrop_aspect_ratio.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_switch_track.xml.flat",
@@ -837,7 +885,7 @@
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_rn_dev_preferences.xml.flat",
-        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\1c3a07b2c4252d787a4615645c044843\\res\\xml\\rn_dev_preferences.xml"
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\2da1c20aa38e05935c8cb7803c392437\\res\\xml\\rn_dev_preferences.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -876,6 +924,10 @@
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ucrop_ic_next.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable\\ucrop_ic_next.xml"
+    },
+    {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\74e88d8083812e5413df376f1f425c62\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
     },
@@ -886,6 +938,18 @@
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ucrop_ic_scale_unselected.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable\\ucrop_ic_scale_unselected.xml"
+    },
+    {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ucrop_ic_reset.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable\\ucrop_ic_reset.xml"
+    },
+    {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ucrop_ic_rotate_unselected.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable\\ucrop_ic_rotate_unselected.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_btn_colored_material.xml.flat",
@@ -920,12 +984,20 @@
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ucrop_ic_scale.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable\\ucrop_ic_scale.xml"
+    },
+    {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_mtrl_fast_out_slow_in.xml.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\078d45202ce0fc9b26df0cfae0c4515b\\res\\interpolator\\mtrl_fast_out_slow_in.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_btn_radio_to_on_mtrl_dot_group_animation.xml.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\anim\\btn_radio_to_on_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ucrop_activity_photobox.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\layout\\ucrop_activity_photobox.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -1008,6 +1080,10 @@
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_ucrop_ic_done.png.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable-ldpi-v4\\ucrop_ic_done.png"
+    },
+    {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
@@ -1018,6 +1094,14 @@
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ucrop_vector_ic_crop.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable\\ucrop_vector_ic_crop.xml"
+    },
+    {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ucrop_ic_done.png.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable-xhdpi-v4\\ucrop_ic_done.png"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
@@ -1044,6 +1128,10 @@
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ucrop_ic_done.png.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable-xxxhdpi-v4\\ucrop_ic_done.png"
+    },
+    {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
@@ -1057,7 +1145,7 @@
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_catalyst_push_up_in.xml.flat",
-        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\1c3a07b2c4252d787a4615645c044843\\res\\anim\\catalyst_push_up_in.xml"
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\2da1c20aa38e05935c8cb7803c392437\\res\\anim\\catalyst_push_up_in.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_fab_hide_motion_spec.xml.flat",
@@ -1196,6 +1284,10 @@
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ucrop_vector_loader_animated.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable\\ucrop_vector_loader_animated.xml"
+    },
+    {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_edittext.xml.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\color\\abc_tint_edittext.xml"
     },
@@ -1228,8 +1320,12 @@
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\74e88d8083812e5413df376f1f425c62\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ucrop_ic_angle.png.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable-mdpi-v4\\ucrop_ic_angle.png"
+    },
+    {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fps_view.xml.flat",
-        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\1c3a07b2c4252d787a4615645c044843\\res\\layout\\fps_view.xml"
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\2da1c20aa38e05935c8cb7803c392437\\res\\layout\\fps_view.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -1240,12 +1336,12 @@
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_catalyst_push_up_out.xml.flat",
-        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\1c3a07b2c4252d787a4615645c044843\\res\\anim\\catalyst_push_up_out.xml"
-    },
-    {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\animator_design_fab_hide_motion_spec.xml.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\078d45202ce0fc9b26df0cfae0c4515b\\res\\animator\\design_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_catalyst_push_up_out.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\2da1c20aa38e05935c8cb7803c392437\\res\\anim\\catalyst_push_up_out.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -1296,6 +1392,10 @@
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\078d45202ce0fc9b26df0cfae0c4515b\\res\\color\\mtrl_tabs_icon_color_selector.xml"
     },
     {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ucrop_ic_angle.png.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable-xxxhdpi-v4\\ucrop_ic_angle.png"
+    },
+    {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
     },
@@ -1332,8 +1432,16 @@
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable\\abc_btn_check_material_anim.xml"
     },
     {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ucrop_ic_rotate.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable\\ucrop_ic_rotate.xml"
+    },
+    {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_btn_text_color_selector.xml.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\078d45202ce0fc9b26df0cfae0c4515b\\res\\color\\mtrl_btn_text_color_selector.xml"
+    },
+    {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ucrop_vector_loader.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable\\ucrop_vector_loader.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_search_material.xml.flat",
@@ -1361,7 +1469,7 @@
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_catalyst_slide_down.xml.flat",
-        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\1c3a07b2c4252d787a4615645c044843\\res\\anim\\catalyst_slide_down.xml"
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\2da1c20aa38e05935c8cb7803c392437\\res\\anim\\catalyst_slide_down.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
@@ -1370,6 +1478,10 @@
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ucrop_ic_crop.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable\\ucrop_ic_crop.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu_item.xml.flat",
@@ -1432,6 +1544,10 @@
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ucrop_rotate.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable\\ucrop_rotate.xml"
+    },
+    {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_edit_text_material.xml.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
@@ -1466,6 +1582,10 @@
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ucrop_crop.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable\\ucrop_crop.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
@@ -1524,6 +1644,10 @@
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ucrop_ic_crop_unselected.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable\\ucrop_ic_crop_unselected.xml"
+    },
+    {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
@@ -1542,6 +1666,10 @@
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23_abc_control_background_material.xml.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ucrop_layout_scale_wheel.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\layout\\ucrop_layout_scale_wheel.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -1584,6 +1712,10 @@
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_ucrop_menu_activity.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\menu\\ucrop_menu_activity.xml"
+    },
+    {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
@@ -1614,6 +1746,10 @@
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ucrop_ic_cross.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable\\ucrop_ic_cross.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -1676,6 +1812,10 @@
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ucrop_controls.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\layout\\ucrop_controls.xml"
+    },
+    {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_bottom.xml.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\anim\\abc_slide_out_bottom.xml"
     },
@@ -1705,7 +1845,7 @@
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_redbox_item_title.xml.flat",
-        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\1c3a07b2c4252d787a4615645c044843\\res\\layout\\redbox_item_title.xml"
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\2da1c20aa38e05935c8cb7803c392437\\res\\layout\\redbox_item_title.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
@@ -1717,7 +1857,7 @@
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_catalyst_fade_out.xml.flat",
-        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\1c3a07b2c4252d787a4615645c044843\\res\\anim\\catalyst_fade_out.xml"
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\2da1c20aa38e05935c8cb7803c392437\\res\\anim\\catalyst_fade_out.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_spinner.xml.flat",
@@ -1728,8 +1868,16 @@
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\078d45202ce0fc9b26df0cfae0c4515b\\res\\layout-sw600dp-v13\\mtrl_layout_snackbar.xml"
     },
     {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ucrop_layout_rotate_wheel.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\layout\\ucrop_layout_rotate_wheel.xml"
+    },
+    {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_mtrl_linear_out_slow_in.xml.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\078d45202ce0fc9b26df0cfae0c4515b\\res\\interpolator\\mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_ucrop_loader_circle_scale.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\anim\\ucrop_loader_circle_scale.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
@@ -1744,12 +1892,16 @@
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\078d45202ce0fc9b26df0cfae0c4515b\\res\\drawable-v21\\avd_show_password.xml"
     },
     {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ucrop_ic_angle.png.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable-xxhdpi-v4\\ucrop_ic_angle.png"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -1760,12 +1912,12 @@
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_list_divider_material.xml.flat",
-        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-v21\\abc_list_divider_material.xml"
-    },
-    {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_list_divider_material.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-v21\\abc_list_divider_material.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -1796,6 +1948,10 @@
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\color\\abc_search_url_text.xml"
     },
     {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_ucrop_scale_text_view_selector.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\color\\ucrop_scale_text_view_selector.xml"
+    },
+    {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
@@ -1824,12 +1980,20 @@
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\078d45202ce0fc9b26df0cfae0c4515b\\res\\drawable\\mtrl_tabs_default_indicator.xml"
     },
     {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ucrop_fragment_photobox.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\layout\\ucrop_fragment_photobox.xml"
+    },
+    {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mtrl_chip_checked_black.xml.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\078d45202ce0fc9b26df0cfae0c4515b\\res\\drawable\\ic_mtrl_chip_checked_black.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_chip_close_icon_tint.xml.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\078d45202ce0fc9b26df0cfae0c4515b\\res\\color\\mtrl_chip_close_icon_tint.xml"
+    },
+    {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_ucrop_ic_angle.png.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable-ldpi-v4\\ucrop_ic_angle.png"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_enter.xml.flat",
@@ -1845,7 +2009,7 @@
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_dev_loading_view.xml.flat",
-        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\1c3a07b2c4252d787a4615645c044843\\res\\layout\\dev_loading_view.xml"
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\2da1c20aa38e05935c8cb7803c392437\\res\\layout\\dev_loading_view.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_design_layout_snackbar.xml.flat",
@@ -1916,6 +2080,10 @@
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\078d45202ce0fc9b26df0cfae0c4515b\\res\\color\\mtrl_tabs_ripple_color.xml"
     },
     {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
+        "source": "F:\\Applications\\Rent_fyp_app-master\\node_modules\\react-native-image-crop-picker\\android\\build\\intermediates\\packaged_res\\debug\\xml\\provider_paths.xml"
+    },
+    {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_go_search_api_material.xml.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
@@ -1944,6 +2112,10 @@
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ucrop_ic_done.png.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\4ad8ec956b75984a95141080da39c3e8\\res\\drawable-xxhdpi-v4\\ucrop_ic_done.png"
+    },
+    {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
@@ -1953,7 +2125,7 @@
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_catalyst_slide_up.xml.flat",
-        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\1c3a07b2c4252d787a4615645c044843\\res\\anim\\catalyst_slide_up.xml"
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\2da1c20aa38e05935c8cb7803c392437\\res\\anim\\catalyst_slide_up.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_header_item_layout.xml.flat",
@@ -1981,7 +2153,7 @@
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_redbox_item_frame.xml.flat",
-        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\1c3a07b2c4252d787a4615645c044843\\res\\layout\\redbox_item_frame.xml"
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\2da1c20aa38e05935c8cb7803c392437\\res\\layout\\redbox_item_frame.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
@@ -2052,12 +2224,12 @@
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\74e88d8083812e5413df376f1f425c62\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_mtrl_fast_out_linear_in.xml.flat",
-        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\078d45202ce0fc9b26df0cfae0c4515b\\res\\interpolator\\mtrl_fast_out_linear_in.xml"
-    },
-    {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_in.xml.flat",
         "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9e1bc199d1a15558c51b345b68cf8af2\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_mtrl_fast_out_linear_in.xml.flat",
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\078d45202ce0fc9b26df0cfae0c4515b\\res\\interpolator\\mtrl_fast_out_linear_in.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_grow_fade_in_from_bottom.xml.flat",
@@ -2065,7 +2237,7 @@
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_catalyst_fade_in.xml.flat",
-        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\1c3a07b2c4252d787a4615645c044843\\res\\anim\\catalyst_fade_in.xml"
+        "source": "C:\\Users\\nafil.ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\2da1c20aa38e05935c8cb7803c392437\\res\\anim\\catalyst_fade_in.xml"
     },
     {
         "merged": "F:\\Applications\\Rent_fyp_app-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
