@@ -1,6 +1,6 @@
 import React from 'react';
 
-import AuthLoading  from "./src/component/AuthLoading";
+import AuthLoading from "./src/component/AuthLoading";
 
 import LoginScreen from './src/screens/Login';
 
@@ -10,11 +10,18 @@ import Product from './src/screens/Product';
 
 import { createAppContainer, createSwitchNavigator } from 'react-navigation';
 import { createStackNavigator } from 'react-navigation-stack';
+import Register from './src/screens/Register';
 
 const StackNavigator = createStackNavigator(
   {
-    Home: {
-      screen: HomeScreen,
+    // Home: {
+    //   screen: HomeScreen,
+    //   navigationOptions: {
+    //     // headerShown: false
+    //   },
+    // },
+    Product: {
+      screen: Product,
       navigationOptions: {
         // headerShown: false
       },
@@ -23,13 +30,19 @@ const StackNavigator = createStackNavigator(
 );
 
 const AuthStack = createStackNavigator(
-  { 
+  {
     Login: {
       screen: LoginScreen,
       navigationOptions: {
         headerShown: false
       },
-    }, 
+    },
+    Register: {
+      screen: Register,
+      navigationOptions: {
+        // headerShown: false
+      },
+    }
   }
 );
 

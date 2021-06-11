@@ -2,11 +2,15 @@
   <library name="Gradle: com.github.yalantis:ucrop:2.2.6-native@aar">
     <ANNOTATIONS>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4ad8ec956b75984a95141080da39c3e8/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/088ed4460c82b4adc0b1a1bc6c98d675/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4ad8ec956b75984a95141080da39c3e8/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4ad8ec956b75984a95141080da39c3e8/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4ad8ec956b75984a95141080da39c3e8/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/088ed4460c82b4adc0b1a1bc6c98d675/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/088ed4460c82b4adc0b1a1bc6c98d675/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/088ed4460c82b4adc0b1a1bc6c98d675/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

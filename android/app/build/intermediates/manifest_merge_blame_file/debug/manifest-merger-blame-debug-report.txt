@@ -1,0 +1,102 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.native_rent_fyp2"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="28" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->C:\Projects\rent__fyp_app\android\app\src\debug\AndroidManifest.xml:5:5-77
+11-->C:\Projects\rent__fyp_app\android\app\src\debug\AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Projects\rent__fyp_app\android\app\src\main\AndroidManifest.xml:4:5-67
+12-->C:\Projects\rent__fyp_app\android\app\src\main\AndroidManifest.xml:4:22-64
+13
+14    <queries>
+14-->[:react-native-image-crop-picker] C:\Projects\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-14:15
+15        <intent>
+15-->[:react-native-image-crop-picker] C:\Projects\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-13:18
+16            <action android:name="android.media.action.IMAGE_CAPTURE" />
+16-->[:react-native-image-crop-picker] C:\Projects\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-73
+16-->[:react-native-image-crop-picker] C:\Projects\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:21-70
+17        </intent>
+18    </queries>
+19
+20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+20-->[:react-native-image-crop-picker] C:\Projects\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-81
+20-->[:react-native-image-crop-picker] C:\Projects\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:22-78
+21
+22    <application
+22-->C:\Projects\rent__fyp_app\android\app\src\main\AndroidManifest.xml:6:5-26:19
+23        android:name="com.native_rent_fyp2.MainApplication"
+23-->C:\Projects\rent__fyp_app\android\app\src\main\AndroidManifest.xml:7:9-40
+24        android:allowBackup="false"
+24-->C:\Projects\rent__fyp_app\android\app\src\main\AndroidManifest.xml:8:9-36
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.1.0] C:\Users\muhammad.huzaifa\.gradle\caches\transforms-2\files-2.1\80f58724caaf330e74c3000cc6797977\core-1.1.0\AndroidManifest.xml:24:18-86
+26        android:debuggable="true"
+27        android:icon="@mipmap/ic_launcher"
+27-->C:\Projects\rent__fyp_app\android\app\src\main\AndroidManifest.xml:9:9-43
+28        android:label="@string/app_name"
+28-->C:\Projects\rent__fyp_app\android\app\src\main\AndroidManifest.xml:10:9-41
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->C:\Projects\rent__fyp_app\android\app\src\main\AndroidManifest.xml:11:9-54
+30        android:theme="@style/AppTheme"
+30-->C:\Projects\rent__fyp_app\android\app\src\main\AndroidManifest.xml:12:9-40
+31        android:usesCleartextTraffic="true" >
+31-->C:\Projects\rent__fyp_app\android\app\src\debug\AndroidManifest.xml:7:18-53
+32        <activity
+32-->C:\Projects\rent__fyp_app\android\app\src\main\AndroidManifest.xml:14:9-23:20
+33            android:name="com.native_rent_fyp2.MainActivity"
+33-->C:\Projects\rent__fyp_app\android\app\src\main\AndroidManifest.xml:15:13-41
+34            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+34-->C:\Projects\rent__fyp_app\android\app\src\main\AndroidManifest.xml:16:13-83
+35            android:label="@string/app_name"
+35-->C:\Projects\rent__fyp_app\android\app\src\main\AndroidManifest.xml:17:13-45
+36            android:windowSoftInputMode="adjustResize" >
+36-->C:\Projects\rent__fyp_app\android\app\src\main\AndroidManifest.xml:18:13-55
+37            <intent-filter>
+37-->C:\Projects\rent__fyp_app\android\app\src\main\AndroidManifest.xml:19:13-22:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->C:\Projects\rent__fyp_app\android\app\src\main\AndroidManifest.xml:20:17-69
+38-->C:\Projects\rent__fyp_app\android\app\src\main\AndroidManifest.xml:20:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->C:\Projects\rent__fyp_app\android\app\src\main\AndroidManifest.xml:21:17-77
+40-->C:\Projects\rent__fyp_app\android\app\src\main\AndroidManifest.xml:21:27-74
+41            </intent-filter>
+42        </activity>
+43        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+43-->C:\Projects\rent__fyp_app\android\app\src\main\AndroidManifest.xml:25:9-86
+43-->C:\Projects\rent__fyp_app\android\app\src\main\AndroidManifest.xml:25:19-83
+44
+45        <provider
+45-->[:react-native-image-crop-picker] C:\Projects\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:9-27:20
+46            android:name="androidx.core.content.FileProvider"
+46-->[:react-native-image-crop-picker] C:\Projects\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-62
+47            android:authorities="com.native_rent_fyp2.provider"
+47-->[:react-native-image-crop-picker] C:\Projects\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:13-60
+48            android:exported="false"
+48-->[:react-native-image-crop-picker] C:\Projects\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:13-37
+49            android:grantUriPermissions="true" >
+49-->[:react-native-image-crop-picker] C:\Projects\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:13-47
+50            <meta-data
+50-->[:react-native-image-crop-picker] C:\Projects\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:13-26:58
+51                android:name="android.support.FILE_PROVIDER_PATHS"
+51-->[:react-native-image-crop-picker] C:\Projects\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:17-67
+52                android:resource="@xml/provider_paths" />
+52-->[:react-native-image-crop-picker] C:\Projects\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:17-55
+53        </provider>
+54
+55        <activity
+55-->[:react-native-image-crop-picker] C:\Projects\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:9-31:72
+56            android:name="com.yalantis.ucrop.UCropActivity"
+56-->[:react-native-image-crop-picker] C:\Projects\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:13-60
+57            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+57-->[:react-native-image-crop-picker] C:\Projects\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:13-69
+58    </application>
+59
+60</manifest>

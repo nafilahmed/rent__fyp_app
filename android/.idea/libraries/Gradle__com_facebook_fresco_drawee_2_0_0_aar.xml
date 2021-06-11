@@ -4,6 +4,9 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/78bab92b2c2b778693bbb2413815e621/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/78bab92b2c2b778693bbb2413815e621/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/78bab92b2c2b778693bbb2413815e621/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5f5c297c1ec915d634746118567a9eb9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5f5c297c1ec915d634746118567a9eb9/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5f5c297c1ec915d634746118567a9eb9/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/drawee/2.0.0/416ad28d3ec4edf504c4253b25dc27af1127872c/drawee-2.0.0-javadoc.jar!/" />

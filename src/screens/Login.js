@@ -11,24 +11,24 @@ export default class Login extends React.Component {
     super(props);
     this.state = {
       text_input_email: "saad@gmail.com",
-      text_input_password:"12345",
+      text_input_password: "12345",
       // text_input_email: "",
       // text_input_password:"",
-      login_error:'',
-      login_loader:false,
-      isVisible:false,
-      pass_email:"",
-      pass_success:false,
-      pass_error:false,
-      email_loader:false,
-      fail_email_send:'Enter correct e-mail',
-      valid_email_error:false,
+      login_error: '',
+      login_loader: false,
+      isVisible: false,
+      pass_email: "",
+      pass_success: false,
+      pass_error: false,
+      email_loader: false,
+      fail_email_send: 'Enter correct e-mail',
+      valid_email_error: false,
     }
   }
 
   validateEmail = (email) => {
     var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
-      return re.test(email);
+    return re.test(email);
   };
 
   loginCustom = () => {
@@ -36,33 +36,33 @@ export default class Login extends React.Component {
     var self = this;
 
     try {
-    
+
       if (!this.validateEmail(this.state.text_input_email)) {
         this.setState({ login_error: 'Invalid email' });
       } else {
 
-        axios.interceptors.request.use(function(config) {
+        axios.interceptors.request.use(function (config) {
           // Do something before request is sent
           console.log('Start Ajax Call');
 
           self.setState({ login_loader: true });
           return config;
-        }, function(error) {
+        }, function (error) {
           // Do something with request error
           console.log('Error');
           self.setState({ login_loader: false });
           return Promise.reject(error);
         });
-        
-        axios.interceptors.response.use(function(response) {
+
+        axios.interceptors.response.use(function (response) {
           self.setState({ login_loader: false });
           // Do something with response data
           console.log('Done with Ajax call');
-        
+
           return response;
-        }, function(error) {
+        }, function (error) {
           // Do something with response error
-          console.log('Error fetching the data'+ error );
+          console.log('Error fetching the data' + error);
           return Promise.reject(error);
         });
 
@@ -76,19 +76,19 @@ export default class Login extends React.Component {
           email: this.state.text_input_email,
           password: this.state.text_input_password
         }).then(function (response) {
-          
+
           var myObj = JSON.parse(response.request.response);
           console.log(myObj);
 
-          if(myObj.hasOwnProperty('success')){
+          if (myObj.hasOwnProperty('success')) {
             const user_id = ["user_id", JSON.stringify(myObj.user.id)];
             const user_name = ["user_name", myObj.user.name];
-            AsyncStorage.multiSet([user_id, user_name]).then(()=>{
+            AsyncStorage.multiSet([user_id, user_name]).then(() => {
               this.props.navigation.navigate('Home');
             });
-            
-          }else{
-            self.setState({ login_error: "Invalid email / password.",login_loader:false });
+
+          } else {
+            self.setState({ login_error: "Invalid email / password.", login_loader: false });
             Alert.alert("Alert", "Else Invalid email / password.");
           }
 
@@ -96,32 +96,32 @@ export default class Login extends React.Component {
           console.log(error);
           Alert.alert("Alert", "Invalid email / password.");
         }.bind(this));
-        
+
       }
     } catch (error) {
-      this.setState({login_loader:false });
-      alert('Login failed with error: ' + error)      
+      this.setState({ login_loader: false });
+      alert('Login failed with error: ' + error)
     }
   }
 
-  login_form =  () =>{
+  login_form = () => {
     return (
       <View>
         <View style={styles.inputContainer}>
-          <Image style={styles.inputIcon} source={{uri: 'https://png.icons8.com/message/ultraviolet/50/3498db'}}/>
-          <TextInput style={styles.inputs} placeholder="Email" keyboardType="email-address" underlineColorAndroid='transparent' onChangeText = {(text_input_email) => this.setState({text_input_email})} value = {this.state.text_input_email}/>
+          <Image style={styles.inputIcon} source={{ uri: 'https://png.icons8.com/message/ultraviolet/50/3498db' }} />
+          <TextInput style={styles.inputs} placeholder="Email" keyboardType="email-address" underlineColorAndroid='transparent' onChangeText={(text_input_email) => this.setState({ text_input_email })} value={this.state.text_input_email} />
         </View>
-        
+
         <View style={styles.inputContainer}>
-          <Image style={styles.inputIcon} source={{uri: 'https://png.icons8.com/key-2/ultraviolet/50/3498db'}}/>
-          <TextInput style={styles.inputs} placeholder="Password" secureTextEntry={true} underlineColorAndroid='transparent' onChangeText={(text_input_password) => this.setState({text_input_password})} value = {this.state.text_input_password} />
+          <Image style={styles.inputIcon} source={{ uri: 'https://png.icons8.com/key-2/ultraviolet/50/3498db' }} />
+          <TextInput style={styles.inputs} placeholder="Password" secureTextEntry={true} underlineColorAndroid='transparent' onChangeText={(text_input_password) => this.setState({ text_input_password })} value={this.state.text_input_password} />
         </View>
 
         <TouchableHighlight style={[styles.buttonContainer, styles.loginButton]} onPress={() => this.loginCustom()}>
           <Text style={styles.loginText}>Login</Text>
         </TouchableHighlight>
 
-        <TouchableHighlight style={styles.buttonContainer} onPress={() => this.loginCustom()}>
+        <TouchableHighlight style={styles.buttonContainer} onPress={() => this.props.navigation.navigate('Register')}>
           <Text>Register</Text>
         </TouchableHighlight>
       </View>
@@ -129,7 +129,7 @@ export default class Login extends React.Component {
   }
 
   onClickListener = (viewId) => {
-    Alert.alert("Alert", "Button pressed "+viewId);
+    Alert.alert("Alert", "Button pressed " + viewId);
   }
 
   render() {
@@ -149,36 +149,36 @@ const styles = StyleSheet.create({
     backgroundColor: '#DCDCDC',
   },
   inputContainer: {
-      borderBottomColor: '#F5FCFF',
-      backgroundColor: '#FFFFFF',
-      borderRadius:30,
-      borderBottomWidth: 1,
-      width:250,
-      height:45,
-      marginBottom:20,
-      flexDirection: 'row',
-      alignItems:'center'
+    borderBottomColor: '#F5FCFF',
+    backgroundColor: '#FFFFFF',
+    borderRadius: 30,
+    borderBottomWidth: 1,
+    width: 250,
+    height: 45,
+    marginBottom: 20,
+    flexDirection: 'row',
+    alignItems: 'center'
   },
-  inputs:{
-      height:45,
-      marginLeft:16,
-      borderBottomColor: '#FFFFFF',
-      flex:1,
+  inputs: {
+    height: 45,
+    marginLeft: 16,
+    borderBottomColor: '#FFFFFF',
+    flex: 1,
   },
-  inputIcon:{
-    width:30,
-    height:30,
-    marginLeft:15,
+  inputIcon: {
+    width: 30,
+    height: 30,
+    marginLeft: 15,
     justifyContent: 'center'
   },
   buttonContainer: {
-    height:45,
+    height: 45,
     flexDirection: 'row',
     justifyContent: 'center',
     alignItems: 'center',
-    marginBottom:20,
-    width:250,
-    borderRadius:30,
+    marginBottom: 20,
+    width: 250,
+    borderRadius: 30,
   },
   loginButton: {
     backgroundColor: "#00b5ec",

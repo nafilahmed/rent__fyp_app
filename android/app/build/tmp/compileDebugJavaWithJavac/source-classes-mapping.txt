@@ -1,0 +1,10 @@
+com/native_rent_fyp2/BuildConfig.java
+ com.native_rent_fyp2.BuildConfig
+com/native_rent_fyp2/MainActivity.java
+ com.native_rent_fyp2.MainActivity
+ com.native_rent_fyp2.MainActivity$1
+com/native_rent_fyp2/MainApplication.java
+ com.native_rent_fyp2.MainApplication
+ com.native_rent_fyp2.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

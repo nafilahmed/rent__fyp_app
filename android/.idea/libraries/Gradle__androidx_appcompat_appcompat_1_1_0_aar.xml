@@ -2,11 +2,15 @@
   <library name="Gradle: androidx.appcompat:appcompat:1.1.0@aar">
     <ANNOTATIONS>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e1bc199d1a15558c51b345b68cf8af2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7424b46e7c9df28cd4fbb56e5fa3c1cd/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e1bc199d1a15558c51b345b68cf8af2/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e1bc199d1a15558c51b345b68cf8af2/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e1bc199d1a15558c51b345b68cf8af2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7424b46e7c9df28cd4fbb56e5fa3c1cd/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7424b46e7c9df28cd4fbb56e5fa3c1cd/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7424b46e7c9df28cd4fbb56e5fa3c1cd/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

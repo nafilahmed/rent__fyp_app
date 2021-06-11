@@ -1,6 +1,6 @@
 import React from 'react';
-import { FlatList, ScrollView, Text, View, TouchableHighlight, Image } from 'react-native';
-import{ Container, Header, Title, Content, Button, Icon, Left,Right, Body } from 'native-base';
+import { FlatList, ScrollView, Text, View, TouchableHighlight, Image, Alert } from 'react-native';
+import { Container, Header, Title, Content, Button, Icon, Left, Right, Body } from 'native-base';
 import { recipes } from '../data/dataArrays';
 import styles from './styles';
 // import MenuImage from '../../components/MenuImage/MenuImage';
@@ -16,8 +16,9 @@ export default class Home extends React.Component {
   constructor(props) {
     super(props);
     AsyncStorage.clear();
-    this.state = { 
-      D_list:[]
+    this.createTwoButtonAlert = this.createTwoButtonAlert.bind(this)
+    this.state = {
+      D_list: []
     }
   }
 
@@ -25,19 +26,17 @@ export default class Home extends React.Component {
   featching_promo_deals = async () => {
 
     try {
-      axios.get('http://alkarimfabrics.com.pk/rent_api/public/api/all_product',{ 
+      axios.get('http://alkarimfabrics.com.pk/rent_api/public/api/all_product', {
         // user_id:this.state.brand_user_id , offset : this.state.offset 
       }).then((brand_response) => {
 
         this.setState({
-          D_list:brand_response.data,
+          D_list: brand_response.data,
         });
 
-        console.log(this.state.D_list);
-
       })
- 
-    } catch(err) {
+
+    } catch (err) {
       console.log(err);
     }
   }
@@ -46,10 +45,26 @@ export default class Home extends React.Component {
     this.featching_promo_deals();
   }
 
+  createTwoButtonAlert = (item) =>
+    Alert.alert(
+      "Update Product",
+      "Do you want to update this product?",
+      [
+        {
+          text: "Cancel",
+          onPress: () => console.log("Cancel Pressed"),
+          style: "cancel"
+        },
+        { text: "Yes", onPress: () => this.props.navigation.navigate('Product', { productDetails: item }) }
+      ]
+    );
+
   renderRecipes = ({ item }) => (
-    <TouchableHighlight underlayColor='rgba(73,182,77,1,0.9)' >
+    <TouchableHighlight onPress={() => {
+      this.createTwoButtonAlert(item)
+    }} underlayColor='rgba(73,182,77,1,0.9)' >
       <View style={styles.container}>
-        <Image style={styles.photo} source={{ uri: 'http://alkarimfabrics.com.pk/rent_api/public'+item.feature_image }} />
+        <Image style={styles.photo} source={{ uri: 'http://alkarimfabrics.com.pk/rent_api/public' + item.feature_image }} />
         <Text style={styles.title}>{item.name}</Text>
         <Text style={styles.category}>Rs {item.price} / {item.unit}</Text>
       </View>
