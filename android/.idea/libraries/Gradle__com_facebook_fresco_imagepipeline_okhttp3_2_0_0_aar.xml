@@ -7,6 +7,20 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7ab975d7d20a974605b787f259593772/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7ab975d7d20a974605b787f259593772/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7ab975d7d20a974605b787f259593772/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/67a2f63424b7022497fec32ffd905b3f/jetified-imagepipeline-okhttp3-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8c8eb2002e286dd821976fa6494d8281/imagepipeline-okhttp3-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da926edf3222263244b765f4992b0b43/jetified-imagepipeline-okhttp3-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d7c08fe7c5d6ac6c6eb6451344361e28/imagepipeline-okhttp3-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/559ddc4b7f576fedc63e05921b88e895/imagepipeline-okhttp3-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c0c8b1d160de7361c6fc58f2dd95fc9a/imagepipeline-okhttp3-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cca6a8ec91bb5ac723b7c2f2319dc957/imagepipeline-okhttp3-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f306adcdad1c3cdfcb047dbc952ed16d/imagepipeline-okhttp3-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/564c74f95263cd2eedeafa76dcb8ee75/jetified-imagepipeline-okhttp3-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b706098acfcdb735c5e4b4db306b5f88/jetified-imagepipeline-okhttp3-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/019edda232301d2ee22774af4e3a5372/jetified-imagepipeline-okhttp3-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0d3dee51d27d2c991a7e8a97e55a0d66/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0d3dee51d27d2c991a7e8a97e55a0d66/imagepipeline-okhttp3-2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0d3dee51d27d2c991a7e8a97e55a0d66/imagepipeline-okhttp3-2.0.0/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/imagepipeline-okhttp3/2.0.0/20fd5913ad52abdc7dc623f44f15d6322308aa27/imagepipeline-okhttp3-2.0.0-javadoc.jar!/" />

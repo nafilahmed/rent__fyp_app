@@ -10,55 +10,33 @@ import Product from './src/screens/Product';
 
 import { createAppContainer, createSwitchNavigator } from 'react-navigation';
 import { createStackNavigator } from 'react-navigation-stack';
+import {createDrawerNavigator} from 'react-navigation-drawer';
 import Register from './src/screens/Register';
+import { NavigationContainer } from 'react-navigation';
 
-const StackNavigator = createStackNavigator(
-  {
-    // Home: {
-    //   screen: HomeScreen,
-    //   navigationOptions: {
-    //     // headerShown: false
-    //   },
-    // },
-    Product: {
-      screen: Product,
-      navigationOptions: {
-        // headerShown: false
-      },
-    },
-  }
-);
 
-const AuthStack = createStackNavigator(
-  {
-    Login: {
-      screen: LoginScreen,
-      navigationOptions: {
-        headerShown: false
-      },
-    },
-    Register: {
-      screen: Register,
-      navigationOptions: {
-        // headerShown: false
-      },
-    }
-  }
-);
-
-const AppContainer = createAppContainer(createSwitchNavigator(
-  {
-    AuthLoading: AuthLoading,
-    App: StackNavigator,
-    Auth: AuthStack,
+const DrawerNavigator = createDrawerNavigator({
+  Login:{
+    screen: LoginScreen,
   },
-  {
-    initialRouteName: 'AuthLoading',
+  Register: {
+    screen: Register,
+  },
+  Home: {
+    screen: HomeScreen,
+    navigationOptions:{
+      headerShown: false
+    }
+  },
+  Product: {
+    screen: Product,
   }
-));
+});
+
+const AppContainer = createAppContainer(DrawerNavigator);
 
 export default class App extends React.Component {
   render() {
-    return <AppContainer />;
+    return <AppContainer />
   }
 }
