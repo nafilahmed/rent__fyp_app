@@ -1,0 +1,295 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:1:1-28:12
+MERGED from [:react-native-community_async-storage] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_masked-view] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-picker_picker] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\@react-native-picker\picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-get-random-values] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-get-random-values\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-crop-picker] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-34:12
+MERGED from [:react-native-reanimated] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\ca1c4044a8eff81af234d2a39663ed91\jetified-react-native-0.63.4\AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\4365c35990fd6a1ad937e5d823d85d18\ucrop-2.2.6-native\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\70f18258e6de8583829c0c973d74eb06\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\1163005a3928d15c5ae0481181379b83\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\d3deaf14ea58cd8fe9cddc01797c36d9\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\9e47b866f9c07d2250f6ed15af01bb12\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\623293540ff0685f3f9a04a205b8e348\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\8e48dfabcd0490b5ea0af089df7d6642\android-jsc-r245459\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\f4e255a80d49b69b99ac1223d40302ae\fresco-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\0d3dee51d27d2c991a7e8a97e55a0d66\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\3006be075338ec0eebac7cbff70e112a\drawee-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\c233a7ab3ce640f94eb8480845244785\nativeimagefilters-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\473ff98b35957b0635053724238371f6\imagepipeline-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\05fc8add677add730a709136b43cfc2d\nativeimagetranscoder-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\3920ea55bcc4c456f2b83531fa52719e\imagepipeline-base-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\f575027bab2f2602b702c94c8a3b3bd0\soloader-0.9.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\7a0172e271c5826a3b0fc6bc000a9640\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0-rc01] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\28135f99793d71c3abe5517825f96084\transition-1.2.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\269378178e9e521bc728829ae8bf27d7\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\7fa596690f8460c7c6922e30fd4ab2b7\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\6f2aa1271feff3fa97f95d893696a212\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\0b1d825ab47c93dadc5541ba84a2d190\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\41dc4e8fa1f69c4389bbc44703a91948\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\d9d2d53b6ba0bf99d9cec0223e3dfbbc\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\728de74ab44b4faa19157288e3851484\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\c321293e767b07b00134b7a2139b83bb\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\7ff36dafd0060f8ce371a33e6bdb4100\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\853439a309d0af117f213f5b9d7a47fc\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\1868eb0bf52b219cad36d90e250f6144\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\3684c01c0a85c23e1fee5ea1cc2aca85\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\3b6b28b8cbd0cec0c917ba30bf80f233\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\e8a887ee233c0f003e953d294de592a7\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\16e150451f28c3d92b612097b7a2e8e3\exifinterface-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\ee30beb30fb63852e9ed6a32e4308ba1\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\6494761c1f241f41692a9cceddb49410\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\03637366400c757b95c2092de4e61456\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\c012ecba0b53986129a27e25bb724462\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\a75f7d23b4bc25e6fd9d37d6e3da7ebb\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\f647a8d9c161d84cf41a1fc96fe066ea\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\95081abda5f167d1b0bce228ae0f9854\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\a9491a96808a2e011acb488fb3b442f2\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\b6d6dfb662f006c8d9752be4da94665f\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\813c9d907a77094b8c0acb7e15329a62\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\dd2dd83205e800a8c9bf796a1e264a83\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\85d91ea10234bb444754b6f1e49a108d\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\9f891a27524a32510423440b4999a419\jetified-fbcore-2.0.0\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:1:1-28:12
+	package
+		ADDED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:2:5-35
+		INJECTED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:1:1-28:12
+		INJECTED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:1:1-28:12
+		INJECTED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:6:5-26:19
+MERGED from [:react-native-image-crop-picker] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:18:5-32:19
+MERGED from [:react-native-image-crop-picker] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:18:5-32:19
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\ca1c4044a8eff81af234d2a39663ed91\jetified-react-native-0.63.4\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\ca1c4044a8eff81af234d2a39663ed91\jetified-react-native-0.63.4\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\70f18258e6de8583829c0c973d74eb06\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\70f18258e6de8583829c0c973d74eb06\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\f575027bab2f2602b702c94c8a3b3bd0\soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\f575027bab2f2602b702c94c8a3b3bd0\soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\3b6b28b8cbd0cec0c917ba30bf80f233\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\3b6b28b8cbd0cec0c917ba30bf80f233\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\03637366400c757b95c2092de4e61456\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\03637366400c757b95c2092de4e61456\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\3b6b28b8cbd0cec0c917ba30bf80f233\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:8:9-36
+	android:theme
+		ADDED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:7:9-40
+activity#com.native_rent_fyp2.MainActivity
+ADDED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:14:9-23:20
+	android:label
+		ADDED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:17:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:18:13-55
+	android:configChanges
+		ADDED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:16:13-83
+	android:name
+		ADDED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:25:9-86
+	android:name
+		ADDED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml:25:19-83
+uses-sdk
+INJECTED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-community_async-storage] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-picker_picker] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\@react-native-picker\picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-picker_picker] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\@react-native-picker\picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-get-random-values] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-get-random-values\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-get-random-values] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-get-random-values\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-crop-picker] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-reanimated] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\ca1c4044a8eff81af234d2a39663ed91\jetified-react-native-0.63.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\ca1c4044a8eff81af234d2a39663ed91\jetified-react-native-0.63.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\4365c35990fd6a1ad937e5d823d85d18\ucrop-2.2.6-native\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\4365c35990fd6a1ad937e5d823d85d18\ucrop-2.2.6-native\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\70f18258e6de8583829c0c973d74eb06\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\70f18258e6de8583829c0c973d74eb06\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\1163005a3928d15c5ae0481181379b83\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\1163005a3928d15c5ae0481181379b83\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\d3deaf14ea58cd8fe9cddc01797c36d9\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\d3deaf14ea58cd8fe9cddc01797c36d9\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\9e47b866f9c07d2250f6ed15af01bb12\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\9e47b866f9c07d2250f6ed15af01bb12\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\623293540ff0685f3f9a04a205b8e348\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\623293540ff0685f3f9a04a205b8e348\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\8e48dfabcd0490b5ea0af089df7d6642\android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\8e48dfabcd0490b5ea0af089df7d6642\android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\f4e255a80d49b69b99ac1223d40302ae\fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\f4e255a80d49b69b99ac1223d40302ae\fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\0d3dee51d27d2c991a7e8a97e55a0d66\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\0d3dee51d27d2c991a7e8a97e55a0d66\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\3006be075338ec0eebac7cbff70e112a\drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\3006be075338ec0eebac7cbff70e112a\drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\c233a7ab3ce640f94eb8480845244785\nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\c233a7ab3ce640f94eb8480845244785\nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\473ff98b35957b0635053724238371f6\imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\473ff98b35957b0635053724238371f6\imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\05fc8add677add730a709136b43cfc2d\nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\05fc8add677add730a709136b43cfc2d\nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\3920ea55bcc4c456f2b83531fa52719e\imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\3920ea55bcc4c456f2b83531fa52719e\imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\f575027bab2f2602b702c94c8a3b3bd0\soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\f575027bab2f2602b702c94c8a3b3bd0\soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\7a0172e271c5826a3b0fc6bc000a9640\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\7a0172e271c5826a3b0fc6bc000a9640\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0-rc01] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\28135f99793d71c3abe5517825f96084\transition-1.2.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0-rc01] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\28135f99793d71c3abe5517825f96084\transition-1.2.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\269378178e9e521bc728829ae8bf27d7\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\269378178e9e521bc728829ae8bf27d7\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\7fa596690f8460c7c6922e30fd4ab2b7\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\7fa596690f8460c7c6922e30fd4ab2b7\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\6f2aa1271feff3fa97f95d893696a212\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\6f2aa1271feff3fa97f95d893696a212\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\0b1d825ab47c93dadc5541ba84a2d190\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\0b1d825ab47c93dadc5541ba84a2d190\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\41dc4e8fa1f69c4389bbc44703a91948\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\41dc4e8fa1f69c4389bbc44703a91948\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\d9d2d53b6ba0bf99d9cec0223e3dfbbc\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\d9d2d53b6ba0bf99d9cec0223e3dfbbc\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\728de74ab44b4faa19157288e3851484\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\728de74ab44b4faa19157288e3851484\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\c321293e767b07b00134b7a2139b83bb\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\c321293e767b07b00134b7a2139b83bb\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\7ff36dafd0060f8ce371a33e6bdb4100\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\7ff36dafd0060f8ce371a33e6bdb4100\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\853439a309d0af117f213f5b9d7a47fc\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\853439a309d0af117f213f5b9d7a47fc\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\1868eb0bf52b219cad36d90e250f6144\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\1868eb0bf52b219cad36d90e250f6144\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\3684c01c0a85c23e1fee5ea1cc2aca85\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\3684c01c0a85c23e1fee5ea1cc2aca85\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\3b6b28b8cbd0cec0c917ba30bf80f233\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\3b6b28b8cbd0cec0c917ba30bf80f233\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\e8a887ee233c0f003e953d294de592a7\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\e8a887ee233c0f003e953d294de592a7\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\16e150451f28c3d92b612097b7a2e8e3\exifinterface-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\16e150451f28c3d92b612097b7a2e8e3\exifinterface-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\ee30beb30fb63852e9ed6a32e4308ba1\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\ee30beb30fb63852e9ed6a32e4308ba1\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\6494761c1f241f41692a9cceddb49410\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\6494761c1f241f41692a9cceddb49410\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\03637366400c757b95c2092de4e61456\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\03637366400c757b95c2092de4e61456\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\c012ecba0b53986129a27e25bb724462\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\c012ecba0b53986129a27e25bb724462\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\a75f7d23b4bc25e6fd9d37d6e3da7ebb\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\a75f7d23b4bc25e6fd9d37d6e3da7ebb\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\f647a8d9c161d84cf41a1fc96fe066ea\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\f647a8d9c161d84cf41a1fc96fe066ea\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\95081abda5f167d1b0bce228ae0f9854\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\95081abda5f167d1b0bce228ae0f9854\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\a9491a96808a2e011acb488fb3b442f2\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\a9491a96808a2e011acb488fb3b442f2\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\b6d6dfb662f006c8d9752be4da94665f\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\b6d6dfb662f006c8d9752be4da94665f\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\813c9d907a77094b8c0acb7e15329a62\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\813c9d907a77094b8c0acb7e15329a62\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\dd2dd83205e800a8c9bf796a1e264a83\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\dd2dd83205e800a8c9bf796a1e264a83\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\85d91ea10234bb444754b6f1e49a108d\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\85d91ea10234bb444754b6f1e49a108d\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\9f891a27524a32510423440b4999a419\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\malik.usman\.gradle\caches\transforms-2\files-2.1\9f891a27524a32510423440b4999a419\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\android\app\src\main\AndroidManifest.xml
+queries
+ADDED from [:react-native-image-crop-picker] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:10:5-14:15
+intent
+ADDED from [:react-native-image-crop-picker] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:9-13:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:13-73
+	android:name
+		ADDED from [:react-native-image-crop-picker] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:21-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:react-native-image-crop-picker] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from [:react-native-image-crop-picker] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:22-78
+provider#androidx.core.content.FileProvider
+ADDED from [:react-native-image-crop-picker] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:19:9-27:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:23:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:21:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:20:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:24:13-26:58
+	android:resource
+		ADDED from [:react-native-image-crop-picker] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:26:17-55
+	android:name
+		ADDED from [:react-native-image-crop-picker] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:25:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:29:9-31:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:31:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] C:\Users\malik.usman\Desktop\Office Documents\rent__fyp_app\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:30:13-60

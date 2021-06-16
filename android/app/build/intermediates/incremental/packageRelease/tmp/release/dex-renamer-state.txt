@@ -1,0 +1,4 @@
+#Wed Jun 16 13:46:52 PKT 2021
+base.0=C\:\\Users\\malik.usman\\Desktop\\Office Documents\\rent__fyp_app\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

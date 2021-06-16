@@ -13,6 +13,26 @@ import { createStackNavigator } from 'react-navigation-stack';
 import {createDrawerNavigator} from 'react-navigation-drawer';
 import Register from './src/screens/Register';
 import { NavigationContainer } from 'react-navigation';
+import Entypo from 'react-native-vector-icons/Entypo';
+
+
+const HomeStackScreen = createStackNavigator({
+  Home:{
+    screen: HomeScreen,
+    navigationOptions: {
+      headerLeft: <Entypo name='menu' size={25} style={{marginLeft: 5}}/>
+    }
+  }
+});
+
+const ProductStackScreen = createStackNavigator({
+  Product:{
+    screen: Product,
+    navigationOptions: {
+      headerLeft: <Entypo name='menu' size={25} style={{marginLeft: 5}}/>
+    }
+  }
+});
 
 
 const DrawerNavigator = createDrawerNavigator({
@@ -23,15 +43,31 @@ const DrawerNavigator = createDrawerNavigator({
     screen: Register,
   },
   Home: {
-    screen: HomeScreen,
-    navigationOptions:{
-      headerShown: false
-    }
+    screen: HomeStackScreen,
   },
   Product: {
-    screen: Product,
+    screen: ProductStackScreen,
   }
 });
+
+
+// const DrawerNavigator = createDrawerNavigator({
+//   Login:{
+//     screen: LoginScreen,
+//   },
+//   Register: {
+//     screen: Register,
+//   },
+//   Home: {
+//     screen: HomeScreen,
+//     navigationOptions:{
+//       headerShown: false
+//     }
+//   },
+//   Product: {
+//     screen: Product,
+//   }
+// });
 
 const AppContainer = createAppContainer(DrawerNavigator);
 
